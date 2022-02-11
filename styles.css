@@ -1,0 +1,6 @@
+body{background-color: orange;}
+#header{text-align: center;font-size: 36px;color: brown;background-color: burlywood;}
+#submit1{margin-left: 600px;}
+.center{text-align: center;font-size: 22px;color: brown;background-color: burlywood;border: 2px solid red; width: 1200px;}
+.jerry{text-align: center;font-size: 22px;color: brown;background-color: burlywood;margin-left: 500px;}
+img{display: block;margin-left: 300px;border: 10px solid brown;}
